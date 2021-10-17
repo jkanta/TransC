@@ -1,0 +1,2 @@
+# TransC
+Built with QtCreator
